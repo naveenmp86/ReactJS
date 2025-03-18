@@ -81,4 +81,16 @@ React provides a special Hook called useState to manage state.
 2️⃣ Create a state variable using useState
 
 3️⃣ Update the state when needed
+ 
+<h2 style= "color:blue">Vite</h2>
 
+- Vite (pronounced "veet") is a fast frontend build tool that makes React and other web development frameworks run much faster. It replaces traditional tools like Create React App (CRA) by offering:
+  
+
+✅ Super-fast development server
+
+✅ Instant hot module replacement (HMR) – Updates in real time without refreshing
+
+✅ Optimized production builds
+
+✅ Support for modern JavaScript (ES modules, TypeScript, etc.)
